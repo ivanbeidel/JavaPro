@@ -14,4 +14,5 @@ public class Task4 {
             i = i / 2;//O(log n)
         }
     }
+
 //O(log n) общая сложность - логарифмическая
